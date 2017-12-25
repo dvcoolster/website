@@ -1,0 +1,6 @@
+<!-- Populate list of Blogs -->
+<% site.posts.forEach(function(post) { %>
+  <li><a href ="<%- post.path %>"><%- titlecase(post.title) %></a></li>
+<% })%> <br>
+
+<!-- Anything after list of Blogs/Posts -->

@@ -1,0 +1,11 @@
+# Will keep adding great quotes I find
+
+quotes:
+  - author: "Dharamveer"
+    quote: "Wow! Such great times"
+    link: "https://www.dvcoolster.com"
+    book: null
+  - author: "Another Person"
+    quote: "Something that really moves you"
+    link: "https://google.com"
+    book: null

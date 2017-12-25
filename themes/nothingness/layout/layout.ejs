@@ -1,0 +1,15 @@
+<!-- Inserting common head across the website. For Google Analytics, etc. -->
+<%- partial('_partial/head') %>
+
+<body style = "max-width: 600px; padding:15px; background-color:#FFFFFF; font-family: Helvetica Neue,Helvetica,sans-serif">
+  <!-- Inserting Header into all layouts -->
+  <%- partial('_partial/header') %>
+
+  <!-- Individual rendering of each page, post, etc. accordingly -->
+  <%- body %>
+
+  <!-- Inserting Footer into all layouts -->
+  <%- partial('_partial/footer') %>
+
+</body>
+</html>

@@ -11,10 +11,9 @@ description: >
             things in the universe DV wants to talk about. He prefers to talk
             in a personal direct manner. Therefore, enjoy the stories
             that are shaping these shared thoughts. He does sometimes feels
-            incapable with the tool of language at disposal. To avoid future pain
-            he always tries to explain from as deep a perspective as possible.
-            As noise on internet keeps increasing, it might seem counterproductive
-            at first to spend time in understanding and explaining in depth.
+            incapable with the tool of language at disposal. He always tries to explain
+            from as deep a perspective as possible. As noise on internet keeps increasing,
+            it might seem counterproductive at first to spend time in understanding and explaining in depth.
             But, beauty is always in depth, and post you have truly felt it.
             You can continue with your job undeterred, at peace, always.
 
@@ -90,6 +89,6 @@ theme: nothingness
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/dvcoolster/dvcoolster.github.io.git
+  repo: 
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
